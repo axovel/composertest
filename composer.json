@@ -1,0 +1,12 @@
+{
+    "name": "Axovel/Custom",
+    "description": "custom module",
+    "authors": [
+        {
+            "name": "sintu.yugasa",
+            "email": "sintu.yugasa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
