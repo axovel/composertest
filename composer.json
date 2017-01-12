@@ -8,5 +8,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "type":"magento2-module",
+    "extra":{"map":[["*","Axovel/Custom"]]}
 }
